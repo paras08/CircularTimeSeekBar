@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_90d2d4fb4b416595f0bfc5c961c247870ea6b6cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_7aa40b7ccf24f188a9624bf311b6aa18fadecb1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3c2f57a4e75037e4686630232f2d41dabba5a9fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_72da1b43308226084ca28babd758146b1f59525e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_683af8e6ee19110153a043b1ac12ac555b521ae8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_d586e8eea52f18dd4df0efbff017d120d4bb52c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b0e4615daf6a20994b5e243b01678636428a34e2">
+        <dex dex="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_86ecc3ae259d7f71e7d83e505621ad673a8959de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_b12171fcb1e4f5d281fe39d26ed411c289b85beb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_111c9f5575a0d20e97f745b66e5daffa1c1547f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_19b333b4abdd1ede1dd2dafc7b3b41ddd5e84ff2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_33dcbcef5c34e0e065c8e591bcfab3aabb8072e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a493254bc7d09e3d589d003e53e57d5c91cd7118">
+        <dex dex="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2a0c12681a1795ca8a40a346590ddb8413361679/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishalsharma/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_1e139d06a669d48cb0de8ace8fa4109a12f0947d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_64ec031e54c31f023deede1f0cced9ec51151c18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_f8b20d8c6c228d4a846c7985b571a96cb0ce7075/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_624e90be8b9bb58c8557e52156413281af5805f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/vishalsharma/Downloads/CircularTimeSeekbar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_1fb1e3fab52471243c037d97b2db52aa55bd7489/classes.dex" />
+    </item>
+
+</items>
